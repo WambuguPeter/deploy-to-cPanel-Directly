@@ -21,6 +21,6 @@ jobs:
             server: ${{ secrets.FTP_SERVER}}
             username: ${{ secrets.FTP_USERNAME }}
             password: ${{ secrets.FTP_PASSWORD }}
-            server-dir: /piento-vscode.woza.co.ke
+            server-dir: /piento-vscode.woza.co.ke/
             exclude: .git,README.md
   
